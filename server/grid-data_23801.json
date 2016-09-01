@@ -1,0 +1,19 @@
+[
+  {
+    "id":23801,
+    "area":"area.in.di.a.6",
+    "rating":2.000,
+    "inn":"1234567890",
+    "kpp":"987654321",
+    "name":"Company name",
+    "name_full":"Limited Liability Company \" Company \ "",
+    "address":"420087, Telangana, Hyderabad, Madhapur, 15",
+    "address_legal":"420073 Telangana, Hyderabad",
+    "anno_short":"Sale of special clothing, footwear, personal protective equipment",
+    "anno":"text in anno",
+    "phone":"(222) 555-44-66",
+    "fax":"(111) 222-33-44",
+    "site":"",
+    "location": ["India", "Telangana", "Hyderabad", "Madhapur"]
+  }
+]
